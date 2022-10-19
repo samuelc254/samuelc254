@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate embedded developer from Brazil :brazil:</h3>
+<h3 align="center">A passionate embedded developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Omni-Robot](https://github.com/samuelc254/Omni-Robot)
-
-- 📫 How to reach me **sam.oc2005@gmail.com**
+- 🔭 I’m currently working on [**Omni-Robot**](https://github.com/samuelc254/Omni-Robot)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
