@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate embedded developer from Brazil</h3>
 
 - 🔭 I’m currently working on [**Omni-Robot**](https://github.com/samuelc254/Omni-Robot)
 
