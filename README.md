@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 
-- 🔭 I’m currently working on [**Omni-Robot**](https://github.com/samuelc254/Omni-Robot)
+### 🔭 I’m currently working on  
+- [**Omni-Robot**](https://github.com/samuelc254/Omni-Robot)
+- [**ArduinoCM**](https://github.com/samuelc254/ArduinoCM)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
