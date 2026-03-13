@@ -1,39 +1,47 @@
-<h1 align="center">Olá! 👋 Eu sou o Samuel</h1>
-<h3 align="center">Estudante de Engenharia com paixão por Robótica, Análise de Dados e Desenvolvimento de Software.</h3>
-
-<br>
+<h1 align="center">Samuel Oliveira Costa</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,unity,arduino,cmake,git,vscode,linux&theme=dark" />
-  </a>
+  Engenharia de Instrumentação, Automação e Robótica na UFABC
 </p>
 
-<br>
+<p align="center">
+  <strong>Robótica</strong> • <strong>Sistemas Embarcados</strong> • <strong>Simulação</strong> • <strong>Dados</strong>
+</p>
 
-Atualmente cursando **Engenharia de Instrumentação, Automação e Robótica na UFABC**, meu foco é na intersecção entre hardware e software. Tenho grande interesse no desenvolvimento de sistemas embarcados, na criação de gêmeos digitais para simulações complexas e na aplicação de análise de dados para extrair insights valiosos.
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-oliveira-costa-25388481/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCeUzcwdVOwA8NuACL51bmqA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Principais Áreas de Foco
+### Sobre
 
--   **Desenvolvimento de Sistemas Embarcados:** Experiência com **C/C++** e **CMake** para microcontroladores (STM32, Arduino), incluindo programação **Bare Metal** (via registradores) e utilização de ambientes como STM32Cube e VSCode.
+Construo projetos na fronteira entre hardware e software, com foco em firmware, simulação e análise de dados aplicada.
 
--   **Simulação e Gêmeos Digitais:** Uso de **Unity** e **C#** para desenvolver simulações de processos com interações físicas e visuais, com foco na criação de Gêmeos Digitais.
+### Onde atuo
 
--   **Análise e Ciência de Dados:** Aplicação de **Python** e **Jupyter Notebooks** para análise, processamento de dados e simulação de eventos discretos, frequentemente combinando com projetos de simulação.
+| Área | Tecnologias | Direção |
+| --- | --- | --- |
+| Sistemas embarcados | C, C++, CMake, STM32, Arduino | Firmware e baixo nível |
+| Simulação | Unity, C#, Python | Gêmeos digitais, ambientes interativos e DES |
+| Dados | Python, Jupyter | Análise, processamento e ferramentas |
 
-## 🤖 Projetos e Interesses
+### Stack
 
-Sou entusiasta de **robótica competitiva**, onde aplico meus conhecimentos no desenvolvimento de **firmware** para robôs e na criação de **dashboards e aplicações em Python** para processamento avançado de dados em tempo real.
-
-## 📫 Entre em Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/samuel-oliveira-costa-25388481/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel oliveira costa" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCeUzcwdVOwA8NuACL51bmqA" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samuel costa" height="30" width="40" />
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,unity,arduino,cmake,git,vscode,linux&theme=dark" alt="Tech stack" />
   </a>
 </p>
+
+### Interesses atuais
+
+- Firmware para robótica competitiva
+- Telemetria e processamento de dados em tempo real
+- Simulação de eventos discretos para análise de sistemas complexos
+- Integração entre automação, simulação e software
