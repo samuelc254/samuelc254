@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  Firmware, simulação e análise de dados aplicados à automação e robótica.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/samuel-oliveira-costa-25388481/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -19,17 +23,11 @@
 
 ---
 
-### Sobre
+### Áreas
 
-Construo projetos na fronteira entre hardware e software, com foco em firmware, simulação e análise de dados aplicada.
-
-### Onde atuo
-
-| Área | Tecnologias | Direção |
-| --- | --- | --- |
-| Sistemas embarcados | C, C++, CMake, STM32, Arduino | Firmware e baixo nível |
-| Simulação | Unity, C#, Python | Gêmeos digitais, ambientes interativos e DES |
-| Dados | Python, Jupyter | Análise, processamento e ferramentas |
+- Sistemas embarcados com C/C++, CMake, STM32 e Arduino
+- Simulação com Unity, C# e Python
+- Dados com Python e Jupyter
 
 ### Stack
 
@@ -38,10 +36,3 @@ Construo projetos na fronteira entre hardware e software, com foco em firmware, 
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,unity,arduino,cmake,git,vscode,linux&theme=dark" alt="Tech stack" />
   </a>
 </p>
-
-### Interesses atuais
-
-- Firmware para robótica competitiva
-- Telemetria e processamento de dados em tempo real
-- Simulação de eventos discretos para análise de sistemas complexos
-- Integração entre automação, simulação e software
