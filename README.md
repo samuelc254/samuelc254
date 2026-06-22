@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-oliveira-costa-25388481/">
+  <a href="https://www.linkedin.com/in/samuelocosta/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/channel/UCeUzcwdVOwA8NuACL51bmqA">
